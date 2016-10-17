@@ -1,12 +1,12 @@
 <?php
 // +----------------------------------------------------------------------
-// | iQQOLX [ faster && lighter ]
+// | ThinkPHP [ WE CAN DO IT JUST THINK ]
 // +----------------------------------------------------------------------
-// | Copyright (c) 2011-2099 http://iqqol.com All rights reserved.
+// | Copyright (c) 2006-2014 http://thinkphp.cn All rights reserved.
 // +----------------------------------------------------------------------
 // | Licensed ( http://www.apache.org/licenses/LICENSE-2.0 )
 // +----------------------------------------------------------------------
-// | Author: 阿z <admin@izzx.cc>.<Bob酱油路过！>
+// | Author: liu21st <liu21st@gmail.com>
 // +----------------------------------------------------------------------
 
 // 应用入口文件
@@ -21,6 +21,6 @@ define('APP_DEBUG',True);
 define('APP_PATH','./Application/');
 
 // 引入ThinkPHP入口文件
-require './TP/TP.php';
+require './ThinkPHP/ThinkPHP.php';
 
 // 亲^_^ 后面不需要任何代码了 就是如此简单
